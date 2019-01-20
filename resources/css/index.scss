@@ -1,0 +1,9 @@
+@import "~bootstrap/scss/bootstrap";
+
+.hello {
+    color: blueviolet;
+
+    ::placeholder {
+        color: gray;
+    }
+}
